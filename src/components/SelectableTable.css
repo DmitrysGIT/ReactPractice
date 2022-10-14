@@ -1,0 +1,14 @@
+.selectable-table {
+    width: 100px;
+}
+
+.data-container {
+    border: solid 1px #cccccc;
+}
+.data-container.active {
+    border: solid 2px #000000;
+}
+
+.data-container.selected {
+    background-color: #0000ff;
+}
